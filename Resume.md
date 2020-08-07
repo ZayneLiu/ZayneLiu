@@ -1,13 +1,9 @@
 # Résumé  <!-- omit in toc -->
-- [Info](#info)
-- [Soft skills](#soft-skills)
-- [Tech stacks](#tech-stacks)
-- [Tech stacks in depth](#tech-stacks-in-depth)
-- [At the very end.](#at-the-very-end)
-## Info
-| Name  | Lanzheng Liu (Zayne) |
-| ----- | -------------------- |
-| Email | zayneliu@hotmail.com |
+
+Name: Lanzheng Liu (Zayne) - [Github](https://github.com/ZayneLiu)
+
+Email: zayneliu@hotmail.com
+___
 
 ## Soft skills
 - Very fast learner, lots of hands on experiences in coding.
@@ -58,7 +54,7 @@
   - Git / GitHub
   - Markdown
 
-T.B.C
+To be continued...
 
 ## At the very end.
 The skills mentioned above are only the ones I can think of when I'm writing this résumé. As I've said in the beginning, I'm a fast learner and I've learnt many different and interesting technologies, however, since I'm still studying at university, I only got a few chances to participate in a project within a collaborating environment. So I'm very excited to join the team.
