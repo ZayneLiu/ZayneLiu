@@ -6,16 +6,17 @@ Email: zayneliu@hotmail.com
 ___
 
 ## Soft skills
-- Very fast learner, lots of hands on experiences in coding.
-- Passionate about new technologies and willing to learn.
+- Very fast learner with great hands on experience in coding.
 - Very keen on writing clean, elegant and yet maintainable code.
-- Problem solving attitude.
-- Happy to learn from others and to help others as well, by sharing my knowledge.
+- Enthusiastic with excellent problem-solving skills.
+- Very passionate about new technologies.
+- Dedicated to learn new skills while sharpening existing ones.
 - Team player, exciting to be part of a team.
 
 
 ## Tech stacks
 - Fluent in `JavaScript/TypeScript`, `Python3`, `C#`.
+- Other languages ( e.g. `Java`, `Swift` ).
 - Deep understanding in OOP.
 - `Linux` experiences (`Ubuntu`, `Debian`, etc.), exposure to container Technologies (e.g. `Docker`).
 - Comfortable with CLI (command-line interface) and yet have decent understanding in Web UI.
