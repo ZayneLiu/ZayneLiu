@@ -11,6 +11,7 @@ ___
 - Enthusiastic with excellent problem-solving skills.
 - Very passionate about new technologies.
 - Dedicated to learn new skills while sharpening existing ones.
+- Good presentation skills.
 - Team player, exciting to be part of a team.
 
 
