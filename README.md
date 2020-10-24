@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-
-| demo                                              | demo |
-| ------------------------------------------------- | ---- |
-| <input type="checkbox" disabled checked /> works  |      |
-| <input type="checkbox" disabled /> works here too |      |
 <!-- - 🔭 I’m currently working on [Librarian](https://github.com/ZayneLiu/Librarian) -->
 <!--
 **ZayneLiu/ZayneLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
