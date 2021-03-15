@@ -6,7 +6,7 @@ Email: zayneliu@hotmail.com
 ___
 
 ## Soft skills
-- Very fast learner with great hands on experience in coding.
+- Extremely fast learner with a lot hands on experience in coding.
 - Very keen on writing clean, elegant and yet maintainable code.
 - Enthusiastic with excellent problem-solving skills.
 - Very passionate about new technologies.
@@ -20,8 +20,8 @@ ___
 - Other languages ( e.g. `Java`, `Swift` ).
 - Deep understanding in OOP.
 - `Linux` experiences (`Ubuntu`, `Debian`, etc.), exposure to container Technologies (e.g. `Docker`).
-- Comfortable with CLI (command-line interface) and yet have decent understanding in Web UI.
-- Framework wise, I'm extremely comfortable working in `Vue.js`, `Flask`, `.NETCore`, etc.
+- Comfortable with CLI (command-line interface) with a decent understanding in GUI.
+- Framework wise, I'm extremely comfortable working in `Vue.js`, `Flask`, `.NETCore`,`Node.js`, etc.
 
 ## Tech stacks in depth
 - Full-Stack Web Development
@@ -45,7 +45,7 @@ ___
     - Key-value Database (e.g. `Redis`)
 
 - Mobile Development & Desktop Development
-  - `React Native` (TypeScript)
+  - Exposure to `React Native` (TypeScript)
   - `Xamarin` (C#)
   - `Electron`
   - `nw.js`
@@ -59,7 +59,7 @@ ___
 To be continued...
 
 ## At the very end.
-The skills mentioned above are only the ones I can think of when I'm writing this résumé. As I've said in the beginning, I'm a fast learner and I've learnt many different and interesting technologies, however, since I'm still studying at university, I only got a few chances to participate in a project within a collaborating environment. So I'm very excited to join the team.
+Coding/Programing is a passion to me rather than it is a job or a skill-set, I'm very interested in learning opportunities, and thrilled to be able learning new skills.
 
 <div style="text-align: end;" >
 Regards,<br/>
