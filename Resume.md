@@ -1,27 +1,29 @@
 # Résumé  <!-- omit in toc -->
 
-Name: Lanzheng Liu (Zayne) - [Github](https://github.com/ZayneLiu)
-
-Email: zayneliu@hotmail.com
+|   Name: | Lanzheng Liu (Zayne)                                       |
+| ------: | ---------------------------------------------------------- |
+| Github: | [https://github.com/ZayneLiu](https://github.com/ZayneLiu) |
+|  Email: | zayneliu@hotmail.com                                       |
 ___
 
 ## Soft skills
 - Extremely fast learner with a lot hands on experience in coding.
-- Very keen on writing clean, elegant and yet maintainable code.
+- Very keen on writing clean, elegant and maintainable code.
 - Enthusiastic with excellent problem-solving skills.
-- Very passionate about new technologies.
+- Passionate about new technologies.
 - Dedicated to learn new skills while sharpening existing ones.
 - Good presentation skills.
 - Team player, exciting to be part of a team.
 
 
 ## Tech stacks
-- Fluent in `JavaScript/TypeScript`, `Python3`, `C#`.
+- Fluent in `C#`, `JavaScript/TypeScript`, `Python3`.
 - Other languages ( e.g. `Java`, `Swift` ).
+- Unit Testing (xUnit, JUnit, etc.)
 - Deep understanding in OOP.
 - `Linux` experiences (`Ubuntu`, `Debian`, etc.), exposure to container Technologies (e.g. `Docker`).
-- Comfortable with CLI (command-line interface) with a decent understanding in GUI.
-- Framework wise, I'm extremely comfortable working in `Vue.js`, `Flask`, `.NETCore`,`Node.js`, etc.
+- Comfortable with CLI (command-line interface) also with a decent understanding and design capability in GUI.
+- Framework wise, I'm extremely comfortable working in `Vue.js`,`.NETCore`, `Flask`, `Node.js`, etc.
 
 ## Tech stacks in depth
 - Full-Stack Web Development
@@ -31,7 +33,8 @@ ___
       - `vuex` (state management)
       - `vue-router` (SPA routing)
       - Exposure to `SSR` (Server-Side Rendering)
-    - `HTML`, `JavaScript`, `CSS` (Flexbox, `Scss`, `Bootstrap`).
+    - `HTML`, `JavaScript`, `CSS` (Flexbox, `Scss`, `Bootstrap`)
+    - `Adobe XD`, `Sketch`, etc.
   - Back-end
     - REST API
       - `Flask`, `Django` (Python web framework).
