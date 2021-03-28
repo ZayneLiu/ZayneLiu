@@ -72,6 +72,16 @@ ___
 
 To be continued...
 
+## Misc.
+- Salary Expectation: __`£35,000` - `£45,000` annually__.
+- Availability: __Immediately__.
+- Nationality: __Chinese__
+- Visa Status:
+  - Tier4 Visa (current)
+  - Post-study Work Visa (after graduation)
+- Available for virtual interview.
+- Available to take skill Assessment.
+
 ## At the very end.
 Coding/Programing is a passion to me rather than it is a job or a skill-set, I'm very interested in learning opportunities, and thrilled to be able learning new skills.
 
