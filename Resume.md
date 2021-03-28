@@ -6,6 +6,17 @@
 |  Email: | zayneliu@hotmail.com                                       |
 ___
 
+## Education
+- __University of Hertfordshire (UH)__:
+  - `[2020 - 2021]` MSc Software Engineering.
+- __Zhongyuan University of Technology (ZUT)__:
+  - `[2017 - 2019]` Software Technology.
+
+## Employment
+- Zhongyuan University of Technology Incubation Center.
+  - Full-stack developer. [`09/2018` - `03/2019`]
+  - `C#`, `Python`, `Vue.js`
+
 ## Soft skills
 - Extremely fast learner with a lot hands on experience in coding.
 - Very keen on writing clean, elegant and maintainable code.
