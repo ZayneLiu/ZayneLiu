@@ -4,7 +4,6 @@
 | ------: | ---------------------------------------------------------- |
 | Github: | [https://github.com/ZayneLiu](https://github.com/ZayneLiu) |
 |  Email: | zayneliu@hotmail.com                                       |
-___
 
 ## Education
 - __University of Hertfordshire (UH)__:
@@ -40,23 +39,16 @@ ___
 - Full-Stack Web Development
   - Front-end
     - `Vue.js` (version 2.x and 3.x).
-      - `vite`(utilising ES Module support in browsers to speed up development process).
-      - `vuex` (state management)
-      - `vue-router` (SPA routing)
-      - Exposure to `SSR` (Server-Side Rendering)
-    - `HTML`, `JavaScript`, `CSS` (Flexbox, `Scss`, `Bootstrap`)
-    - `Adobe XD`, `Sketch`, etc.
+    - `HTML5`, `CSS3`, `JavaScript` (`Scss`, `Bootstrap`)
+    - Design tools (`Adobe XD`, `Photoshop`, `Sketch`, etc.)
   - Back-end
-    - REST API
-      - `Flask`, `Django` (Python web framework).
-      - `Node.js` (Express.js, etc).
-      - `ASP.Net Core` (.NET Core API Server).
+    - REST API (`ASP.Net Core`, `Flask`, `Node.js`).
       - `Swagger` (REST API Documentation).
-    - Exposure to `GraphQL`, `Deno` (runtime for `JS` and `TS`).
+    - Exposure to `GraphQL`, `Deno`.
   - Database
-    - No-SQL / Document Database (e.g. `MongoDB`, `CouchDB`,  etc.).
-    - SQL Database (e.g. `SQL Server`, `SQLite`,  etc.).
-    - Key-value Database (e.g. `Redis`)
+    - No-SQL / Document Database (`MongoDB`, `CouchDB`).
+    - SQL Database (`SQL Server`, `SQLite`).
+    - Key-value Database (`Redis`)
 
 - Mobile Development & Desktop Development
   - Exposure to `React Native` (TypeScript)
@@ -68,6 +60,7 @@ ___
 
 - Misc.
   - Git / GitHub
+  - Azure DevOps
   - Markdown
 
 To be continued...
