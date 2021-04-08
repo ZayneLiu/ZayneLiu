@@ -39,7 +39,7 @@
 - Full-Stack Web Development
   - Front-end
     - `Vue.js` (version 2.x and 3.x).
-    - `HTML5`, `CSS3`, `JavaScript` (`Scss`, `Bootstrap`)
+    - `HTML5`, `CSS3`, `JavaScript` (`Sass`, `Bootstrap`)
     - Design tools (`Adobe XD`, `Photoshop`, `Sketch`, etc.)
   - Back-end
     - REST API (`ASP.Net Core`, `Flask`, `Node.js`).
