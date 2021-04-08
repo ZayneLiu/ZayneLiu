@@ -13,7 +13,7 @@ ___
   - `[2017 - 2019]` Software Technology.
 
 ## Employment
-- Zhongyuan University of Technology Incubation Center.
+- Zhongyuan University of Technology Innovation Centre.
   - Full-stack developer. [`09/2018` - `03/2019`]
   - `C#`, `Python`, `Vue.js`
 
@@ -21,7 +21,7 @@ ___
 - Extremely fast learner with a lot hands on experience in coding.
 - Very keen on writing clean, elegant and maintainable code.
 - Enthusiastic with excellent problem-solving skills.
-- Passionate about new technologies.
+- Passionate about new technologies, problem solver.
 - Dedicated to learn new skills while sharpening existing ones.
 - Good presentation skills.
 - Team player, exciting to be part of a team.
@@ -29,7 +29,7 @@ ___
 
 ## Tech stacks
 - Fluent in `C#`, `JavaScript/TypeScript`, `Python3`.
-- Other languages ( e.g. `Java`, `Swift` ).
+- Other languages ( e.g. `Java`, `Swift`, `C++` ).
 - Unit Testing (xUnit, JUnit, etc.)
 - Deep understanding in OOP.
 - `Linux` experiences (`Ubuntu`, `Debian`, etc.), exposure to container Technologies (e.g. `Docker`).
@@ -72,15 +72,6 @@ ___
 
 To be continued...
 
-## Misc.
-- Salary Expectation: __`£35,000` - `£45,000` annually__.
-- Availability: __Immediately__.
-- Nationality: __Chinese__
-- Visa Status:
-  - Tier4 Visa (current)
-  - Post-study Work Visa (after graduation)
-- Available for virtual interview.
-- Available to take skill Assessment.
 
 ## At the very end.
 Coding/Programing is a passion to me rather than it is a job or a skill-set, I'm very interested in learning opportunities, and thrilled to be able learning new skills.
