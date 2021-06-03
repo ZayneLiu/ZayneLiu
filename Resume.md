@@ -1,4 +1,4 @@
-# Résumé  <!-- omit in toc -->
+# Resumé  <!-- omit in toc -->
 
 |   Name: | Lanzheng Liu (Zayne)                                       |
 | ------: | ---------------------------------------------------------- |
@@ -35,35 +35,39 @@
 - Comfortable with CLI (command-line interface) also with a decent understanding and design capability in GUI.
 - Framework wise, I'm extremely comfortable working in `Vue.js`,`.NETCore`, `Flask`, `Node.js`, etc.
 
-## Tech stacks in depth
+## Tech stacks
 - Full-Stack Web Development
   - Front-end
-    - `Vue.js` (version 2.x and 3.x).
-    - `HTML5`, `CSS3`, `JavaScript` (`Sass`, `Bootstrap`)
+    - `Vue.js`.
+    - `HTML5`, `CSS3`, `JavaScript`.
     - Design tools (`Adobe XD`, `Photoshop`, `Sketch`, etc.)
   - Back-end
     - REST API (`ASP.Net Core`, `Flask`, `Node.js`).
       - `Swagger` (REST API Documentation).
-    - Exposure to `GraphQL`, `Deno`.
+    <!-- - Exposure to `GraphQL`, `Deno`. -->
   - Database
     - No-SQL / Document Database (`MongoDB`, `CouchDB`).
     - SQL Database (`SQL Server`, `SQLite`).
     - Key-value Database (`Redis`)
 
 - Mobile Development & Desktop Development
-  - Exposure to `React Native` (TypeScript)
-  - `Xamarin` (C#)
+  <!-- - Exposure to `React Native` (TypeScript) -->
+  <!-- - `Xamarin` (C#) -->
   - `Electron`
   - `nw.js`
 
-- Web Scraping (`selenium`, `python-httpx`, `BeautifulSoup`, `request`)
+- Web Scraping (`python`)
 
 - Misc.
   - Git / GitHub
   - Azure DevOps
   - Markdown
+  - ...
 
-To be continued...
+
+Currently exploring `SwiftUI`..
+
+___To be continued...___
 
 
 ## At the very end.
