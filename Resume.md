@@ -1,4 +1,4 @@
-# Resumé  <!-- omit in toc -->
+# Resumé <!-- omit in toc -->
 
 |   Name: | Lanzheng Liu (Zayne)                                       |
 | ------: | ---------------------------------------------------------- |
@@ -6,17 +6,19 @@
 |  Email: | zayneliu@hotmail.com                                       |
 
 ## Education
-- __University of Hertfordshire (UH)__:
+
+- **University of Hertfordshire (UH)**:
   - `[2020 - 2021]` MSc Software Engineering.
-- __Zhongyuan University of Technology (ZUT)__:
+- **Zhongyuan University of Technology (ZUT)**:
   - `[2017 - 2019]` Software Technology.
 
 ## Employment
+
 - Zhongyuan University of Technology Innovation Centre.
-  - Full-stack developer. [`09/2018` - `03/2019`]
-  - `C#`, `Python`, `Vue.js`
+  - [`09/2018` - `03/2019`] Full-stack developer (`C#`, `Python`, `Vue.js`).
 
 ## Soft skills
+
 - Extremely fast learner with a lot hands on experience in coding.
 - Very keen on writing clean, elegant and maintainable code.
 - Enthusiastic with excellent problem-solving skills.
@@ -25,36 +27,30 @@
 - Good presentation skills.
 - Team player, exciting to be part of a team.
 
-
 ## Tech stacks
-- Fluent in `C#`, `JavaScript/TypeScript`, `Python3`.
+
+- Fluent in `C#`, `JavaScript/TypeScript`, `Python`.
 - Other languages ( e.g. `Java`, `Swift`, `C++` ).
-- Unit Testing (xUnit, JUnit, etc.)
-- Deep understanding in OOP.
-- `Linux` experiences (`Ubuntu`, `Debian`, etc.), exposure to container Technologies (e.g. `Docker`).
-- Comfortable with CLI (command-line interface) also with a decent understanding and design capability in GUI.
-- Framework wise, I'm extremely comfortable working in `Vue.js`,`.NETCore`, `Flask`, `Node.js`, etc.
+- Deep understanding in `OOP`, `Unit Testing`.
+- `Linux` experiences (`Ubuntu`, `Debian`, etc.), comfortable working with CLI.
+- Also enjoying building elegant GUI.
 
-## Tech stacks
+## Tech stacks in detail
+
 - Full-Stack Web Development
+
   - Front-end
-    - `Vue.js`.
+    - `Vue.js` / `React`.
     - `HTML5`, `CSS3`, `JavaScript`.
     - Design tools (`Adobe XD`, `Photoshop`, `Sketch`, etc.)
   - Back-end
-    - REST API (`ASP.Net Core`, `Flask`, `Node.js`).
-      - `Swagger` (REST API Documentation).
-    <!-- - Exposure to `GraphQL`, `Deno`. -->
+    - REST API (`ASP.Net Core`, `Flask`, `Node.js`,`Deno`).
+    - Exposure to **Microservice Architecture**.
+    - Exposure to Container Technologies and Orchestration (`Docker`, `Kubernetes`).
+      <!-- - Exposure to `GraphQL`, `Deno`. -->
   - Database
-    - No-SQL / Document Database (`MongoDB`, `CouchDB`).
-    - SQL Database (`SQL Server`, `SQLite`).
+    - No-SQL(`MongoDB`, `CouchDB`), SQL(`SQL Server`, `SQLite`).
     - Key-value Database (`Redis`)
-
-- Mobile Development & Desktop Development
-  <!-- - Exposure to `React Native` (TypeScript) -->
-  <!-- - `Xamarin` (C#) -->
-  - `Electron`
-  - `nw.js`
 
 - Web Scraping (`python`)
 
@@ -64,16 +60,31 @@
   - Markdown
   - ...
 
+Currently exploring `React`, `Deno` and `Microservices` ...
 
-Currently exploring `SwiftUI`..
-
-___To be continued...___
-
+**_To be continued..._**
 
 ## At the very end.
-Coding/Programing is a passion to me rather than it is a job or a skill-set, I'm very interested in learning opportunities, and thrilled to be able learning new skills.
+
+<div style="text-align:center; font-size:large;" >
+>> Coding is my Passion. <<
+</div>
 
 <div style="text-align: end;" >
 Regards,<br/>
 Zayne :)
 </div>
+
+<style>
+  body{
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
+  }
+  ul li p{
+    margin-bottom:5px !important;
+  }
+  h2{
+    margin-top:20px !important;
+    margin-bottom:10px !important;
+  }
+</style>
