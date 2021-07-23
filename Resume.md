@@ -1,4 +1,4 @@
-# Resumé <!-- omit in toc -->
+# Resumé
 
 |   Name: | Lanzheng Liu (Zayne)                                       |
 | ------: | ---------------------------------------------------------- |
@@ -12,28 +12,27 @@
 - **Zhongyuan University of Technology (ZUT)**:
   - `[2017 - 2019]` Software Technology.
 
-## Employment
+## Experience
 
 - Zhongyuan University of Technology Innovation Centre.
-  - [`09/2018` - `03/2019`] Full-stack developer (`C#`, `Python`, `Vue.js`).
+
+  - [`09/2018` - `03/2019`] Full-stack developer / Team leader.
+    - Responsible for a small team of 4 members developing web applications using (`C#`, `Python`, `Vue.js`).
 
 ## Soft skills
 
-- Extremely fast learner with a lot hands on experience in coding.
-- Very keen on writing clean, elegant and maintainable code.
-- Enthusiastic with excellent problem-solving skills.
-- Passionate about new technologies, problem solver.
-- Dedicated to learn new skills while sharpening existing ones.
-- Good presentation skills.
-- Team player, exciting to be part of a team.
+- Fast learner & Passionate about new tech.
+- Enthusiastic & Team player, exciting to be part of a team.
+- Clean, elegant, and well-documented code.
 
 ## Tech stacks
 
 - Fluent in `C#`, `JavaScript/TypeScript`, `Python`.
-- Other languages ( e.g. `Java`, `Swift`, `C++` ).
+- Other languages ( e.g. `Java`, `Swift` ).
 - Deep understanding in `OOP`, `Unit Testing`.
 - `Linux` experiences (`Ubuntu`, `Debian`, etc.), comfortable working with CLI.
-- Also enjoying building elegant GUI.
+
+<div style="page-break-after: always;"></div>
 
 ## Tech stacks in detail
 
@@ -41,15 +40,14 @@
 
   - Front-end
     - `Vue.js` / `React`.
-    - `HTML5`, `CSS3`, `JavaScript`.
     - Design tools (`Adobe XD`, `Photoshop`, `Sketch`, etc.)
   - Back-end
     - REST API (`ASP.Net Core`, `Flask`, `Node.js`,`Deno`).
-    - Exposure to **Microservice Architecture**.
-    - Exposure to Container Technologies and Orchestration (`Docker`, `Kubernetes`).
+    - Exposure to **Microservices Architecture**.
+    - Exposure to Container Technologies (`Docker`, `Kubernetes`).
       <!-- - Exposure to `GraphQL`, `Deno`. -->
   - Database
-    - No-SQL(`MongoDB`, `CouchDB`), SQL(`SQL Server`, `SQLite`).
+    - No-SQL(`MongoDB`), SQL(`SQL Server`, `SQLite`).
     - Key-value Database (`Redis`)
 
 - Web Scraping (`python`)
@@ -60,11 +58,9 @@
   - Markdown
   - ...
 
-Currently exploring `React`, `Deno` and `Microservices` ...
-
 **_To be continued..._**
 
-## At the very end.
+---
 
 <div style="text-align:center; font-size:large;" >
 >> Coding is my Passion. <<
@@ -77,14 +73,15 @@ Zayne :)
 
 <style>
   body{
-    padding-top: 20px !important;
-    padding-bottom: 20px !important;
+    padding-top:20px !important;
+    padding-bottom:20px !important;
   }
   ul li p{
     margin-bottom:5px !important;
   }
   h2{
-    margin-top:20px !important;
-    margin-bottom:10px !important;
+    font-size:24px !important;
+    margin-top:15px !important;
+    margin-bottom:5px !important;
   }
 </style>
