@@ -1,5 +1,5 @@
 PROMPT=$'
-%{$fg_bold[green]%}%n ✦ %{$reset_color%}%{$fg[cyan]%}[%3~]%{$reset_color%} $(git_prompt_info)\
+%{$fg_bold[green]%}%n ✦ %m %{$reset_color%}%{$fg[cyan]%}[%3~]%{$reset_color%} $(git_prompt_info)\
 %{$fg_bold[white]%} ☡ %{$fg[green]%}➜%{$fg_bold[blue]%}%{$reset_color%} '
 # PROMPT=$'
 # %{$fg_bold[green]%}%n@%m %{$fg[blue]%}%D{[%H:%M:%S]} %{$reset_color%}%{$fg[white]%}[%~]%{$reset_color%} $(git_prompt_info)\
