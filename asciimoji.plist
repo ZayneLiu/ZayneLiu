@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    ASCIImoji keyboard shortcuts for Mac OS
+    Version: 1.6.0
+
+    By Volker Wieban
+    http://asciimoji.com
+-->
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <array>
+        <!--#region mac -->
+        <dict>
+            <key>phrase</key>
+            <string></string>
+            <key>shortcut</key>
+            <string>apple</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>⌘</string>
+            <key>shortcut</key>
+            <string>cmd</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>⌘</string>
+            <key>shortcut</key>
+            <string>command</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>⌥</string>
+            <key>shortcut</key>
+            <string>opt</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>⌥</string>
+            <key>shortcut</key>
+            <string>option</string>
+        </dict>
+        <!--#endregion -->
+
+        <!--#region math -->
+        <dict>
+            <key>phrase</key>
+            <string>Ω</string>
+            <key>shortcut</key>
+            <string>omega</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>λ</string>
+            <key>shortcut</key>
+            <string>lambda</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>π</string>
+            <key>shortcut</key>
+            <string>pi</string>
+        </dict>
+
+        <dict>
+            <key>phrase</key>
+            <string>∑</string>
+            <key>shortcut</key>
+            <string>sum</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>Σ</string>
+            <key>shortcut</key>
+            <string>sigma</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>∞</string>
+            <key>shortcut</key>
+            <string>infinity</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>∞</string>
+            <key>shortcut</key>
+            <string>inf</string>
+        </dict>
+        <!--#endregion -->
+
+        <!--#region fraction numbers -->
+        <dict>
+            <key>phrase</key>
+            <string>⅛</string>
+            <key>shortcut</key>
+            <string>1/8</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>¼</string>
+            <key>shortcut</key>
+            <string>1/4</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>½</string>
+            <key>shortcut</key>
+            <string>1/2</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>⅓</string>
+            <key>shortcut</key>
+            <string>1/3</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>⅔</string>
+            <key>shortcut</key>
+            <string>2/3</string>
+        </dict>
+        <!--#endregion-->
+
+        <!--#region currency -->
+        <dict>
+            <key>phrase</key>
+            <string>€</string>
+            <key>shortcut</key>
+            <string>euro</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>£</string>
+            <key>shortcut</key>
+            <string>gbp</string>
+        </dict>
+        <!--#endregion -->
+
+        <!--#region misc -->
+        <dict>
+            <key>phrase</key>
+            <string>⚀</string>
+            <key>shortcut</key>
+            <string>d1</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>⚁</string>
+            <key>shortcut</key>
+            <string>d2</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>⚂</string>
+            <key>shortcut</key>
+            <string>d3</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>⚃</string>
+            <key>shortcut</key>
+            <string>d4</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>⚄</string>
+            <key>shortcut</key>
+            <string>d5</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>⚅</string>
+            <key>shortcut</key>
+            <string>d6</string>
+        </dict>
+        <!--#endregion -->
+
+        <!--#region emoji -->
+        <dict>
+            <key>phrase</key>
+            <string>✿ڿڰۣ—</string>
+            <key>shortcut</key>
+            <string>rose</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>(˶‾᷄ ⁻̫ ‾᷅˵)</string>
+            <key>shortcut</key>
+            <string>happy</string>
+        </dict>
+
+        <dict>
+            <key>phrase</key>
+            <string>(눈_눈)</string>
+            <key>shortcut</key>
+            <string>...</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>(っˆڡˆς)</string>
+            <key>shortcut</key>
+            <string>yum</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>ʕっ•ᴥ•ʔっ</string>
+            <key>shortcut</key>
+            <string>hug</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>(= ФェФ=)</string>
+            <key>shortcut</key>
+            <string>cat</string>
+        </dict>
+
+        <dict>
+            <key>phrase</key>
+            <string>ԅ(≖‿≖ԅ)</string>
+            <key>shortcut</key>
+            <string>creep</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>(˵ ͡° ͜ʖ ͡°˵)</string>
+            <key>shortcut</key>
+            <string>blush</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>ʕ•ᴥ•ʔ</string>
+            <key>shortcut</key>
+            <string>bear</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>ฅ^•ﻌ•^ฅ</string>
+            <key>shortcut</key>
+            <string>meow</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>(ㆆ _ ㆆ)</string>
+            <key>shortcut</key>
+            <string>tired</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>(╥﹏╥)</string>
+            <key>shortcut</key>
+            <string>cry</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>(｡◕‿‿◕｡)</string>
+            <key>shortcut</key>
+            <string>cute</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>(ง •̀_•́)ง</string>
+            <key>shortcut</key>
+            <string>fighting</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>ヽ( •_)ᕗ</string>
+            <key>shortcut</key>
+            <string>dab</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>(・3・)</string>
+            <key>shortcut</key>
+            <string>duckface</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>¯\(°_o)/¯</string>
+            <key>shortcut</key>
+            <string>dunno</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>(ﾉ◕ヮ◕)ﾉ*:・ﾟ✧</string>
+            <key>shortcut</key>
+            <string>excited</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>(－‸ლ)</string>
+            <key>shortcut</key>
+            <string>facepalm</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>._.)/\(._.</string>
+            <key>shortcut</key>
+            <string>highfive</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>_(:3」∠)_</string>
+            <key>shortcut</key>
+            <string>lazy</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>ヽ(｀Д´)⊃━☆ﾟ. * ･ ｡ﾟ,</string>
+            <key>shortcut</key>
+            <string>magic</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>(づ｡◕‿‿◕｡)づ</string>
+            <key>shortcut</key>
+            <string>hug</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>ಠ_ಠ</string>
+            <key>shortcut</key>
+            <string>meh</string>
+        </dict>
+        <!--#endregion -->
+    </array>
+</plist>
