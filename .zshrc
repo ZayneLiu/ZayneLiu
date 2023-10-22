@@ -7,3 +7,6 @@ source ~/.zsh-plugins/znap/znap.zsh
 
 # https://github.com/marlonrichert/zsh-autocomplete
 znap source marlonrichert/zsh-autocomplete
+
+# https://github.com/zsh-users/zsh-autosuggestions
+znap source zsh-users/zsh-autosuggestions
